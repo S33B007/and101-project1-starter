@@ -12,8 +12,8 @@
         android:layout_height="match_parent"
         android:layout_margin="25dp"
         android:background="@color/card_foreground"
-        app:cardCornerRadius="25dp"
-        android:elevation="20dp">
+        app:cardCornerRadius="70dp"
+        android:elevation="100dp">
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
@@ -27,7 +27,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="60dp"
-                android:src="@drawable/avatar_9"/>
+                android:src="@drawable/avatar_13"/>
 
             <TextView
                 android:id="@+id/profile_name"
@@ -37,7 +37,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="50dp"
-                tools:text="First Last"
+                tools:text="Naseeb Bello"
                 android:textSize="24sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
@@ -51,7 +51,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="10dp"
-                android:text="@string/profile_bio_text"
+                android:text="@string/senior_michigan_state_university_nstudying_computer_sicence_with_a_nminor_in_entrepeneurship_and_business_nfinance_chair_of_nsbe_msu_asu_treauserer"
                 android:textSize="16sp"/>
 
             <TextView
@@ -74,7 +74,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="10dp"
-                android:text="@string/profile_hobby_first_text"
+                android:text="@string/sleeping"
                 android:textSize="15sp"/>
 
             <TextView
@@ -85,7 +85,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="5dp"
-                android:text="@string/profile_hobby_second_text"
+                android:text="@string/going_to_the_gym"
                 android:textSize="15sp"/>
 
             <TextView
@@ -96,7 +96,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="5dp"
-                android:text="@string/profile_hobby_third_text"
+                android:text="@string/thrifting"
                 android:textSize="15sp"/>
 
         </androidx.constraintlayout.widget.ConstraintLayout>
