@@ -2,15 +2,15 @@
 
 # AND101 Project 1 - Hello, Squirrel!
 
-Submitted by: **Your Name Here**
+Submitted by: Naseeb Bello
 
 Time spent: **X** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+Hello Squirrel is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  For now the bio is set up
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: :) :) :)
 
 ## Application Features
 
@@ -18,24 +18,24 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Change profile name to your name
-- [ ] Change profile bio text to a personal bio about yourself
-- [ ] Modify hobby section to include your top three (3) hobbies
+- [X] Change profile name to your name
+- [X] Change profile bio text to a personal bio about yourself
+- [X] Modify hobby section to include your top three (3) hobbies
 
 The following STRETCH features are implemented:
 
-- [ ] Re-brand the app by modifying the UI
-- [ ] Modify the profile image by uploading a new image drawable
+- [X] Re-brand the app by modifying the UI
+- [X] Modify the profile image by uploading a new image drawable
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [-] List anything else that you added to improve the app!
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/a/6sG6sCh' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
@@ -46,11 +46,11 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+It was super fun trying to debug. I went through the process of messing things up and seeing how it impacted the final product. Then, As I created my avatar, I stuied the other xml files and just copied and pasted the things I liked out of laziness. Had a difficult time trying to understand the background until i got help, and it cleared things up!
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2025** **Naseeb Bello**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
