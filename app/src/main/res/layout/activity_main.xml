@@ -17,7 +17,8 @@
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:background="@color/card_foreground">
 
             <ImageView
                 android:id="@+id/profile_image"
@@ -28,6 +29,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="60dp"
                 android:src="@drawable/avatar_13"
+                android:background="@color/card_foreground"
                 />
 
             <TextView
@@ -40,15 +42,18 @@
                 android:layout_marginTop="50dp"
                 tools:text="Naseeb Bello"
                 android:textSize="24sp"
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 android:textStyle="bold"
-                android:textAllCaps="true"/>
+                android:textAllCaps="true"
+                android:background="@color/card_foreground"
+                />
 
             <TextView
                 android:id="@+id/profile_bio"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 app:layout_constraintTop_toBottomOf="@id/profile_name"
+                android:textColor="@color/white"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="10dp"
@@ -65,7 +70,8 @@
                 android:layout_marginTop="50dp"
                 android:text="@string/profile_hobby_header_text"
                 android:textSize="18sp"
-                android:textColor="@color/black"/>
+                android:textColor="@color/white"
+                />
 
             <TextView
                 android:id="@+id/profile_hobby_first"
@@ -76,6 +82,8 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="10dp"
                 android:text="@string/sleeping"
+                android:textColor="@color/black"
+                android:background="@color/silver"
                 android:textSize="15sp"/>
 
             <TextView
@@ -87,6 +95,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="5dp"
                 android:text="@string/going_to_the_gym"
+                android:background="@color/gold"
                 android:textSize="15sp"/>
 
             <TextView
@@ -98,6 +107,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="5dp"
                 android:text="@string/thrifting"
+                android:background="@color/bronze"
                 android:textSize="15sp"/>
 
         </androidx.constraintlayout.widget.ConstraintLayout>
