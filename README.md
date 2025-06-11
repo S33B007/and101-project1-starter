@@ -4,7 +4,7 @@
 
 Submitted by: Naseeb Bello
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Summary
 
